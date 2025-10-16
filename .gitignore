@@ -56,3 +56,24 @@ logs/
 
 # GitHub
 .github/secrets/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Documentation
+docs/_build/
+site/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+.ruff_cache/
+
+# Cursor
+.cursorignore
+.cursorindexingignore
